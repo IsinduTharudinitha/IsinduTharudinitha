@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isindu Tharudinitha</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isindutharudinitha" alt="isindutharudinitha" /></a> </p>
 
-- 🌱 I’m currently learning **Express,React,Scala**
+- 🌱 I’m currently learning **React,Angular,Spring Boot,MongoDB**
 
-- 💬 Ask me about **C++,C,Python,JavaScript**
+- 💬 Ask me about **Python,Java,C**
 
 - 📫 How to reach me **tharudinitha@gmail.com**
 
